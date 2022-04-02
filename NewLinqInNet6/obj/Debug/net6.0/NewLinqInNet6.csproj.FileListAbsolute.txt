@@ -1,0 +1,15 @@
+C:\Users\Johannes\source\repos\NewLinqInNet6\NewLinqInNet6\bin\Debug\net6.0\NewLinqInNet6.exe
+C:\Users\Johannes\source\repos\NewLinqInNet6\NewLinqInNet6\bin\Debug\net6.0\NewLinqInNet6.deps.json
+C:\Users\Johannes\source\repos\NewLinqInNet6\NewLinqInNet6\bin\Debug\net6.0\NewLinqInNet6.runtimeconfig.json
+C:\Users\Johannes\source\repos\NewLinqInNet6\NewLinqInNet6\bin\Debug\net6.0\NewLinqInNet6.dll
+C:\Users\Johannes\source\repos\NewLinqInNet6\NewLinqInNet6\bin\Debug\net6.0\NewLinqInNet6.pdb
+C:\Users\Johannes\source\repos\NewLinqInNet6\NewLinqInNet6\obj\Debug\net6.0\NewLinqInNet6.csproj.AssemblyReference.cache
+C:\Users\Johannes\source\repos\NewLinqInNet6\NewLinqInNet6\obj\Debug\net6.0\NewLinqInNet6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johannes\source\repos\NewLinqInNet6\NewLinqInNet6\obj\Debug\net6.0\NewLinqInNet6.AssemblyInfoInputs.cache
+C:\Users\Johannes\source\repos\NewLinqInNet6\NewLinqInNet6\obj\Debug\net6.0\NewLinqInNet6.AssemblyInfo.cs
+C:\Users\Johannes\source\repos\NewLinqInNet6\NewLinqInNet6\obj\Debug\net6.0\NewLinqInNet6.csproj.CoreCompileInputs.cache
+C:\Users\Johannes\source\repos\NewLinqInNet6\NewLinqInNet6\obj\Debug\net6.0\NewLinqInNet6.dll
+C:\Users\Johannes\source\repos\NewLinqInNet6\NewLinqInNet6\obj\Debug\net6.0\refint\NewLinqInNet6.dll
+C:\Users\Johannes\source\repos\NewLinqInNet6\NewLinqInNet6\obj\Debug\net6.0\NewLinqInNet6.pdb
+C:\Users\Johannes\source\repos\NewLinqInNet6\NewLinqInNet6\obj\Debug\net6.0\NewLinqInNet6.genruntimeconfig.cache
+C:\Users\Johannes\source\repos\NewLinqInNet6\NewLinqInNet6\obj\Debug\net6.0\ref\NewLinqInNet6.dll
